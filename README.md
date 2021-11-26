@@ -4,6 +4,7 @@
 🌱 Estudando React e Typescript
 😄 Pronomes: ela/dela
 
+<div style="background-color: #000>
 <div align="center">
   <a href="https://www.linkedin.com/in/anacarlapaiva/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarlapaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,4 +26,5 @@
   <a href = "mailto:acfpaiva99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30em"></a>
   <a href="https://www.linkedin.com/in/anacarlapaiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                  badge&logo=linkedin&logoColor=white" target="_blank" height="30em"></a> 
   
+</div>
 </div>
