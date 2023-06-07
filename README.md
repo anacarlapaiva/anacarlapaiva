@@ -1,8 +1,3 @@
-### Olá, meu nome é Ana! 👋
-
-*Atualmente trabalho como desenvolvedora front-end com React e Typescript. 
-Pronomes: ela/dela*
-
 <div style="background-color: #000>
 <div align="center">
   <a href="https://www.linkedin.com/in/anacarlapaiva/">
