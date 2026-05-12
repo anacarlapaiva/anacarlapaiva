@@ -22,8 +22,6 @@
   <img src="https://skillicons.dev/icons?i=styledcomponents,figma,firebase,mysql&theme=dark" />
 </p>
 
----
-
 ## 🌐 Portfólio
 
 <p align="center">
@@ -31,8 +29,6 @@
     <img src="https://img.shields.io/badge/Meu%20Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </p>
-
----
 
 ## 📫 Contato
 
