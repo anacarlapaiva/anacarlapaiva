@@ -4,11 +4,6 @@
   Desenvolvedora Front-End | React | React Native | TypeScript
 </p>
 
-<p align="center">
-  Apaixonada por criar interfaces modernas, responsivas e performáticas.
-</p>
-
----
 
 ## ✨ Sobre mim
 
@@ -17,7 +12,6 @@
 - ⚛️ Trabalhando com React, TypeScript, JavaScript e Node.js
 - 🚀 Sempre buscando evoluir e construir experiências melhores
 
----
 
 ## 🚀 Tecnologias
 
