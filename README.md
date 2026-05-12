@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Ana Carla 👋</h1>
+<h1 align="center">Olá, eu sou a Ana Carla </h1>
 
 <p align="center">
   Desenvolvedora Front-End | React | React Native | TypeScript
