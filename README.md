@@ -5,7 +5,7 @@
 </p>
 
 
-## ✨ Sobre mim
+##  Sobre mim
 
 - 💻 Desenvolvedora focada em Front-End e Mobile
 - 📱 Experiência com React Native e Expo
@@ -13,7 +13,7 @@
 - 🚀 Sempre buscando evoluir e construir experiências melhores
 
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,git,github,vscode&theme=dark" />
