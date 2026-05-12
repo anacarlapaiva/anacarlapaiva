@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=styledcomponents,figma,firebase,mysql&theme=dark" />
 </p>
 
-## 🌐 Portfólio
+## Portfólio
 
 <p align="center">
   <a href="https://anacarlapaiva.com" target="_blank">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://instagram.com/anacarlapaiva" target="_blank">
@@ -43,4 +43,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
