@@ -12,6 +12,10 @@ Me encontre no [LinkedIn](https://linkedin.com/in/anacarlapaiva) ou em [anacarla
   <img width="398" alt="Avaliações do Clube The Best na Google Play" src="https://github.com/user-attachments/assets/31d3832c-f8b4-4fd9-9289-1eafbb418b9e" />
 </a>
 
+### Em desenvolvimento
+App do Clube Internacional, que abrangerá 3 idiomas, 3 moedas e um sistema delivery robusto!
+EM BREVE!
+
 <a href="https://play.google.com/store/apps/details?id=com.amatech.thebestclubapp&hl=pt_BR"><img alt="Disponível no Google Play" src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 <a href="https://apps.apple.com/br/app/clube-the-best/id6463561926"><img alt="Baixar na App Store" src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
