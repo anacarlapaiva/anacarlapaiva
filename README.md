@@ -4,6 +4,13 @@ Engenheira de software full-stack em Londrina, PR. Há cerca de quatro anos no [
 
 Me encontre no [LinkedIn](https://linkedin.com/in/anacarlapaiva) ou em [anacarlapaiva.com](https://anacarlapaiva.com).
 
+### Em produção
+
+**Clube The Best**, o app do Grupo The Best, disponível para Android e iOS. Atuo no desenvolvimento do app em React Native.
+
+<a href="https://play.google.com/store/apps/details?id=com.amatech.thebestclubapp&hl=pt_BR"><img alt="Disponível no Google Play" src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+<a href="https://apps.apple.com/br/app/clube-the-best/id6463561926"><img alt="Baixar na App Store" src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=appstore&logoColor=white" /></a>
+
 ### Carreira
 
 ```console
