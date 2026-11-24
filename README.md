@@ -43,13 +43,6 @@ a7f3c91 (HEAD -> main) feat: engenheira full-stack no Grupo The Best, web e mobi
 
 React Native no mobile, React e Next.js na web, Node.js com NestJS no back-end.
 
-### Projetos em destaque
-
-| Projeto | O que é |
-| --- | --- |
-| [nestjs-clean-arch](https://github.com/anacarlapaiva/nestjs-clean-arch) | Estudo de clean architecture com NestJS e Fastify |
-| [fiap-mobile-challenge](https://github.com/anacarlapaiva/fiap-mobile-challenge) | Desafio mobile da FIAP em TypeScript |
-
 ### Atividade
 
 A maior parte do meu trabalho vive em repositórios privados, mas o gráfico conta a história.
